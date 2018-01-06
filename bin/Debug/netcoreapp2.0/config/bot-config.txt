@@ -1,0 +1,15 @@
+swear-response: D-don't say s-swears
+swear-jar-channel: swear-jar
+nuked-role-name: The Nuked
+banished-role-name: The Banished
+blacklist-file: user-blacklist.txt
+banned-links-file: Bad propaganda.txt
+help-file: Halp.txt
+swears-file: s-swears.txt
+questions-file: questions.txt
+bot-token: MzMxMTYzNzA5MTM5NDUxOTE0.DFocTA.DWP_98FHUIbCZfOKEX11R9Bf6CY
+pm-swear-message: True
+answers-file: answers.txt
+enable-snark: true
+enable-swearjar: True
+vc-log-channel-name: Logs
