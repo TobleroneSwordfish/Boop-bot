@@ -1,4 +1,4 @@
-General purpose admin bot made using .NET core 2.0 and Discord.NET. Bleeding edge and unstable as fuck.
+General purpose admin bot made using .NET core 2.0 and Discord.NET. Bleeding edge and unstable as hell.
 
 !edu <query> - bring up wikipedia article on <query> in order to educate the uninformed
   
@@ -17,3 +17,5 @@ General purpose admin bot made using .NET core 2.0 and Discord.NET. Bleeding edg
 !pardon @user - remove all previous nuke/banish effects
 
 !play - not yet fully implemented
+
+No idea where the apparent HTML is, the entire project is C#
